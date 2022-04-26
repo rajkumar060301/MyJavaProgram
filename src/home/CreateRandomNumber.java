@@ -5,15 +5,19 @@ package home;/*
  * Date: 24-Jan-22
  */
 
+import java.util.Random;
+
 public class CreateRandomNumber {
 
     public static void main(String[] args) {
         double sum = 0;
         //Random random = new Random();
-        for (int i = 0; i < 15; i++) {
-            sum = sum + Math.random();
-        }
-        System.out.println(sum);
+//        for (int i = 0; i < 15; i++) {
+//            sum = sum + Math.random();
+//        }
+//        System.out.println(sum);
+        Random random = new Random();
+
 
     }
 }
