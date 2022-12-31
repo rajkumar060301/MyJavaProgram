@@ -1,9 +1,11 @@
-package list;/*
+package collectionFremwork.list_Interface;/*
  * Author Name: Raj Kumar
  * IDE: IntelliJ IDEA Ultimate Edition
  * JDK: 17 version
  * Date: 25-Apr-22
  */
+
+import java.util.Iterator;
 
 public class ArrayList {
     public static void main(String[] args) {
@@ -14,6 +16,7 @@ public class ArrayList {
         arrayList.add(39);
         arrayList.add(96);
         arrayList.add(36);
+        System.out.println(arrayList);
         System.out.println("remove 8 element:" + arrayList.remove(1));
         arrayList.add(5, 98);
         arrayList.add(6, 78);
@@ -21,6 +24,11 @@ public class ArrayList {
 //        arrayList.equals(arrayList);
 //        arrayList.clear();
         System.out.println("ArrayList:" + arrayList);
+        System.out.println("Using iterator");
+        Iterator<Integer> itr = arrayList.iterator();
+        while (itr.hasNext()) {
+            System.out.print(" " + itr.next());
+        }
 
     }
 }

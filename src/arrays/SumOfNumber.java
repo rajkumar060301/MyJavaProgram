@@ -16,6 +16,7 @@ public class SumOfNumber {
             sum = sum + number[i];
         }
         System.out.println("Total sum is " + sum);
+        System.out.println(number.length);
 
 
     }

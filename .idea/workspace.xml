@@ -1,58 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="Hello World!">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyJavaProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/CountMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SumOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/program/ArrayEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/program/CreateArrayRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalProgram/Leap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbcAssignment/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Chaumin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Meggi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Petties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/Theory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/allMethod/WithArgumentsWithReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/allMethod/WithArgumentsWithoutReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/allMethod/WithoutArgumentsWithReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/allMethod/WithoutArgumentsWithoutReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/method/WithArgumentsWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/method/WithArgumentsWithoutReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/method/WithoutArgumentsWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/method/WithoutArgumentsWithoutReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home/CreateRandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simple/Sum.java" afterDir="false" />
+    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/connector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SqureSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFremwork/hashMap/Theory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFremwork/hashMap/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionFremwork/queue_Interface/PriorityQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/HallowStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/TringlePatten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/mathmatics/Algebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simple/Lcm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/PrintName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/PrintName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalProgram/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalProgram/Discount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalProgram/MultiplyUnTill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalProgram/MultiplyUnTill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operator/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/Arithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/CompoundInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/Discount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/SimpleInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/SimpleInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeaklyTest/WeakFirst/Bottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Bottom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeaklyTest/WeakFirst/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeaklyTest/WeakFirst/Calculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeaklyTest/WeakFirst/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeaklyTest/WeakFirst/Calculator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeaklyTest/WeakFirst/Calculator4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeaklyTest/WeakFirst/Calculator5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJavaProgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyJavaProgram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/CountMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/CountMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/SumOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/SumOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionFremwork/FramWorkExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/FramWorkExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/StackClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/StackClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/VectorClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/VectorClassExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,24 +63,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA&#10;GitIgnore" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-  </component>
-  <component name="RunManager" selected="Java Scratch.Scratch">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dbcAssignment.main.Main" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/Downloads/connector.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15234375&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Perforce&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;ddbefd81-5bdf-416d-af5b-0bddbcb8aee8&quot;,
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.SqureSortedList">
+    <configuration name="CountMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.CountMarks" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dbcAssignment.main.*" />
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Factorial" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +114,18 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.main.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyJavaProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqureSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SqureSortedList" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function.main.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,35 +133,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithArgumentsWithReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.method.WithArgumentsWithReturn" />
+    <configuration name="SumOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SumOfNumber" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function.method.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WithArgumentsWithoutReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.method.WithArgumentsWithoutReturn" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="function.method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scratch" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,16 +159,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Java Scratch.Scratch" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SqureSortedList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.WithArgumentsWithReturn" />
-        <item itemvalue="Application.WithArgumentsWithoutReturn" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.SumOfNumber" />
+        <item itemvalue="Application.CountMarks" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="true" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\acer\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="" />
@@ -205,6 +199,35 @@
       <workItem from="1643287544171" duration="777000" />
       <workItem from="1643428426133" duration="3463000" />
       <workItem from="1643517835332" duration="3042000" />
+      <workItem from="1645034883883" duration="208000" />
+      <workItem from="1645035190690" duration="664000" />
+      <workItem from="1650885088392" duration="6151000" />
+      <workItem from="1650942744942" duration="4495000" />
+      <workItem from="1650947821965" duration="518000" />
+      <workItem from="1650962404683" duration="4054000" />
+      <workItem from="1651996522467" duration="4887000" />
+      <workItem from="1652001952154" duration="2744000" />
+      <workItem from="1652065941850" duration="17000" />
+      <workItem from="1652324617000" duration="6000" />
+      <workItem from="1652324858829" duration="1846000" />
+      <workItem from="1652415023426" duration="459000" />
+      <workItem from="1652498434462" duration="1043000" />
+      <workItem from="1662041018702" duration="3230000" />
+      <workItem from="1662187533167" duration="541000" />
+      <workItem from="1662365495455" duration="42000" />
+      <workItem from="1668954938697" duration="4014000" />
+      <workItem from="1669298464099" duration="5701000" />
+      <workItem from="1669389369566" duration="16000" />
+      <workItem from="1669445006693" duration="326000" />
+      <workItem from="1669915464106" duration="5691000" />
+      <workItem from="1669954954486" duration="385000" />
+      <workItem from="1670237363351" duration="3331000" />
+      <workItem from="1670568552804" duration="32000" />
+      <workItem from="1671723737188" duration="4357000" />
+      <workItem from="1671737362544" duration="3740000" />
+      <workItem from="1671866148631" duration="5000" />
+      <workItem from="1672061423195" duration="82000" />
+      <workItem from="1672516460510" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World!">
       <created>1642341812297</created>
@@ -227,7 +250,28 @@
       <option name="project" value="LOCAL" />
       <updated>1642342599701</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1645035004588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645035004588</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1650887453002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650887453002</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1650942800809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650942800809</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +291,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Program" />
     <MESSAGE value="Hello World!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

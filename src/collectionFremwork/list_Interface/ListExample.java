@@ -1,4 +1,4 @@
-package list;/*
+package collectionFremwork.list_Interface;/*
  * Author Name: Raj Kumar
  * IDE: IntelliJ IDEA Ultimate Edition
  * JDK: 17 version
@@ -6,6 +6,7 @@ package list;/*
  */
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 public class ListExample {
@@ -17,6 +18,11 @@ public class ListExample {
         arrayList.add(28);
         arrayList.add(89);
         System.out.println("Array list is: " + arrayList);
+        System.out.println("Using iterator");
+        Iterator<Integer> itr = arrayList.iterator();
+        while (itr.hasNext()) {
+            System.out.print(" " + itr.next());
+        }
 
 
     }

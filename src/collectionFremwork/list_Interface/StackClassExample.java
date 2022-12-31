@@ -1,10 +1,11 @@
-package list;/*
+package collectionFremwork.list_Interface;/*
  * Author Name: Raj Kumar
  * IDE: IntelliJ IDEA Ultimate Edition
  * JDK: 17 version
  * Date: 25-Apr-22
  */
 
+import java.util.Iterator;
 import java.util.Stack;
 
 public class StackClassExample {
@@ -23,6 +24,12 @@ public class StackClassExample {
         System.out.println(stack.capacity());
         System.out.println(stack.pop());
         System.out.println(stack.search("Ram"));
+        System.out.println("Using iterator");
+        Iterator<String> itr = stack.iterator();
+        while (itr.hasNext()) {
+            System.out.print(" " + itr.next());
+        }
+
 
     }
 }

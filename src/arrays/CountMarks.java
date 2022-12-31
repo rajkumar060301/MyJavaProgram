@@ -12,7 +12,7 @@ public class CountMarks {
         //  Without input type create array
         int sum = 0;
         System.out.println("Without input type create array");
-        int[] marks = new int[]{35, 45, 55, 65, 75, 85, 95};
+        int[] marks = {35, 45, 55, 65, 75, 85, 95};
         for (int i = 0; i < marks.length; i++) {
             sum = sum + marks[i];
         }

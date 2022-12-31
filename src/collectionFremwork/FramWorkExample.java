@@ -14,13 +14,19 @@ package collectionFremwork;/*
                   ↓             ↓                 ↓
                  List         Queue              Set
                  ↑              ↑                 ↑
-                  ArrayList PriorityQueue        HashSet
+                  ArrayList PriorityQueueExample        HashSet
                  ↑              ↑                 ↑
                   LinkedList   Deque            LinkedHashSet
                  ↑           ←  ↑               ↑
                   vector       ArrayDeque       SortedSet
                  ↑                              ↑
                   Stack                         TreeSet
+1. By Iterator interface.
+2. By for-each loop.
+3. By ListIterator interface.
+4. By for loop.
+5. By forEach() method.
+6. By forEachRemaining() method.
 
  */
 
