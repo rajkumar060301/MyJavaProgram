@@ -7,20 +7,18 @@ package arrays;/*
 
 public class RemoveElement {
     public static int remove(int[] arr, int val) {
-        int count = 0;
-        for (int i = 0; i < arr.length - 1; i++) {
+        int prevIndex = 0;
+        for (int i = 0; i < arr.length; i++) {
             if (arr[i] == val)
-                break;
-            else
-                count++;
-
+                continue;
+            arr[prevIndex++] = arr[i];
         }
-        return count;
+        return prevIndex;
 
     }
 
     public static void main(String[] args) {
-        int[] arr = {3, 2, 2, 3};
+        int[] arr = {3, 2, 2, 3, 3};
         System.out.println(remove(arr, 3));
 
     }
