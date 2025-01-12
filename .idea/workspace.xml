@@ -4,9 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="remove element">
+    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="all commmit">
+      <change afterPath="$PROJECT_DIR$/src/Oops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PaloAlto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/FindWordsContaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatgpt/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatgpt/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/Q_1929.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Patter6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/ReverseTringel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/PalindromePartisons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern/HallowStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/HallowStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +57,19 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="0a5e7b29-53d7-4f2b-8b91-a49983135b7e" />
-        <option name="url" value="https://github.com/rajkumar060301/MyJavaProgram.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rajkumar6301/MyJavaProgram.git",
+    "accountId": "99d0298a-0588-4617-b36c-ae839c61c69f"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="23jIPZainFtAehaNl8ZgDEQBbcR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,46 +78,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/Downloads/connector.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15234375&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FindWordsContaining.executor": "Run",
+    "Application.HallowStar.executor": "Run",
+    "Application.PalindromePartisons.executor": "Run",
+    "Application.PaloAlto.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseTringel.executor": "Run",
+    "Application.StringToInteger.executor": "Run",
+    "Application.Test (1).executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/acer/IdeaProjects/2CBinarySearchTree",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.40114942",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;ddbefd81-5bdf-416d-af5b-0bddbcb8aee8&quot;,
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "ddbefd81-5bdf-416d-af5b-0bddbcb8aee8",
+      "mysql"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.RemoveElement">
-    <configuration name="CreateArrayRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.program.CreateArrayRandom" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.program.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.RemoveDuplicateElement" />
+}]]></component>
+  <component name="RunManager" selected="Application.ReverseArray">
+    <configuration name="FindWordsContaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.FindWordsContaining" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +130,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.RemoveElement" />
+    <configuration name="PalindromePartisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.PalindromePartisons" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ReverseArray" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquarePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.SquarePattern" />
+    <configuration name="StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.StringToInteger" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,15 +169,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.UserInput" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -154,13 +189,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.RemoveDuplicateElement" />
-        <item itemvalue="Application.SquarePattern" />
-        <item itemvalue="Application.UserInput" />
-        <item itemvalue="Application.CreateArrayRandom" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.PalindromePartisons" />
+        <item itemvalue="Application.StringToInteger" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.FindWordsContaining" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="ShelveChangesManager" show_recycled="true" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -234,6 +277,38 @@
       <workItem from="1672755558905" duration="323000" />
       <workItem from="1672756146810" duration="1994000" />
       <workItem from="1672846733714" duration="3437000" />
+      <workItem from="1672938699606" duration="678000" />
+      <workItem from="1673014525974" duration="396000" />
+      <workItem from="1674540533267" duration="5132000" />
+      <workItem from="1674566431397" duration="595000" />
+      <workItem from="1674825711472" duration="594000" />
+      <workItem from="1675400608586" duration="9000" />
+      <workItem from="1679822394650" duration="8547000" />
+      <workItem from="1679840130534" duration="3246000" />
+      <workItem from="1679932441215" duration="5394000" />
+      <workItem from="1680010942457" duration="599000" />
+      <workItem from="1682707912012" duration="23000" />
+      <workItem from="1682708089007" duration="4575000" />
+      <workItem from="1682912488648" duration="3105000" />
+      <workItem from="1683517527420" duration="2525000" />
+      <workItem from="1683603743863" duration="2387000" />
+      <workItem from="1683689939499" duration="2715000" />
+      <workItem from="1683776532051" duration="2520000" />
+      <workItem from="1684345658773" duration="37000" />
+      <workItem from="1686398028800" duration="593000" />
+      <workItem from="1687085688726" duration="132000" />
+      <workItem from="1707069920473" duration="2306000" />
+      <workItem from="1707140369504" duration="2000" />
+      <workItem from="1707140786709" duration="88000" />
+      <workItem from="1709050211823" duration="5756000" />
+      <workItem from="1710606972241" duration="39000" />
+      <workItem from="1711043160385" duration="113000" />
+      <workItem from="1713551293532" duration="246000" />
+      <workItem from="1716382383208" duration="8141000" />
+      <workItem from="1716611074866" duration="12000" />
+      <workItem from="1721324515316" duration="110000" />
+      <workItem from="1722749763434" duration="606000" />
+      <workItem from="1736690826240" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World!">
       <created>1642341812297</created>
@@ -361,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672851875268</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="all commmit">
+      <created>1672938777609</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672938777609</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +475,8 @@
     <MESSAGE value="remove duplicate value" />
     <MESSAGE value="remove element in array" />
     <MESSAGE value="remove element" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove element" />
+    <MESSAGE value="all commmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="all commmit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

@@ -14,7 +14,7 @@ public class HallowStar {
 //                } else {
 //                    System.out.print(" ");
 //                }
-//                System.out.println();
+//                System.out.println();1
 //
 //            }
 //        }

@@ -67,7 +67,7 @@ public class Task3 {
         }
     }
 
-    // Method to remove Duplicates from sorted Array
+    // Method to remove Duplicates from sorted BubbleSort
     public static void RemoveDuplicates(int[] arr) {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(arr[0]);

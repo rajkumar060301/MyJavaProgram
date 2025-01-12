@@ -17,7 +17,7 @@ public class ListExample {
         arrayList.add(65);
         arrayList.add(28);
         arrayList.add(89);
-        System.out.println("Array list is: " + arrayList);
+        System.out.println("BubbleSort list is: " + arrayList);
         System.out.println("Using iterator");
         Iterator<Integer> itr = arrayList.iterator();
         while (itr.hasNext()) {
