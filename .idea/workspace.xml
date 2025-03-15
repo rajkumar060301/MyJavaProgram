@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="all commmit">
-      <change afterPath="$PROJECT_DIR$/src/Oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaloAlto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/FindWordsContaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chatgpt/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chatgpt/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/Q_1929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Patter6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Pattern9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/ReverseTringel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/PalindromePartisons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="small changes in this code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/list_Interface/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/HallowStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/HallowStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionFremwork/hashMap/HashMapAndTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionFremwork/hashMap/HashMapAndTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +32,12 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rajkumar6301/MyJavaProgram.git",
-    "accountId": "99d0298a-0588-4617-b36c-ae839c61c69f"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rajkumar060301/MyJavaProgram.git&quot;,
+    &quot;accountId&quot;: &quot;99d0298a-0588-4617-b36c-ae839c61c69f&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -82,6 +57,7 @@
   "keyToString": {
     "Application.FindWordsContaining.executor": "Run",
     "Application.HallowStar.executor": "Run",
+    "Application.HashMap.executor": "Run",
     "Application.PalindromePartisons.executor": "Run",
     "Application.PaloAlto.executor": "Run",
     "Application.Pattern2.executor": "Run",
@@ -95,7 +71,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/acer/IdeaProjects/2CBinarySearchTree",
     "node.js.detected.package.eslint": "true",
@@ -116,13 +92,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseArray">
-    <configuration name="FindWordsContaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.FindWordsContaining" />
+  <component name="RunManager" selected="Application.HashMapAndTable">
+    <configuration name="HashMapAndTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionFremwork.hashMap.HashMapAndTable" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="collectionFremwork.hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +165,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapAndTable" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.PalindromePartisons" />
         <item itemvalue="Application.StringToInteger" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.FindWordsContaining" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
       </set>
     </attachedChunks>
   </component>
@@ -308,7 +284,10 @@
       <workItem from="1716611074866" duration="12000" />
       <workItem from="1721324515316" duration="110000" />
       <workItem from="1722749763434" duration="606000" />
-      <workItem from="1736690826240" duration="753000" />
+      <workItem from="1736690826240" duration="1651000" />
+      <workItem from="1736964260587" duration="620000" />
+      <workItem from="1741063170409" duration="869000" />
+      <workItem from="1742137388615" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World!">
       <created>1642341812297</created>
@@ -443,7 +422,15 @@
       <option name="project" value="LOCAL" />
       <updated>1672938777609</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="small changes in this code">
+      <option name="closed" value="true" />
+      <created>1736693669990</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736693669990</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +463,8 @@
     <MESSAGE value="remove element in array" />
     <MESSAGE value="remove element" />
     <MESSAGE value="all commmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="all commmit" />
+    <MESSAGE value="small changes in this code" />
+    <option name="LAST_COMMIT_MESSAGE" value="small changes in this code" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
