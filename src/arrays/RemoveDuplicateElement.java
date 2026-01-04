@@ -5,24 +5,30 @@ package arrays;/*
  * Date: 02-Jan-23
  */
 
-public class RemoveDuplicateElement {
-    public static int removeDuplicates(int[] nums) {
-        int result = 1;
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] != nums[result - 1]) {
-                nums[result] = nums[i];
-                result++;
-                return result;
-            }
+import java.util.Arrays;
 
+public class RemoveDuplicateElement {
+    public static int[] removeDuplicates(int[] nums) {
+//        HashSet<Integer> hashSet = new HashSet<>();
+//        for(int data : nums){
+//            hashSet.add(data);
+//        }
+//        return hashSet.toArray();
+        int[] arr = new int[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = 1; j < nums.length - 1; j++) {
+                if (nums[i] != nums[j]) {
+                    arr[i] = nums[i];
+                }
+            }
         }
-        return result;
+        return arr;
 
     }
 
     public static void main(String[] args) {
         int[] arr = new int[]{0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
-        System.out.println(removeDuplicates(arr));
+        System.out.println(Arrays.toString(removeDuplicates(arr)));
 
     }
 }

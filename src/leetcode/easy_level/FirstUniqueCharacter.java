@@ -1,0 +1,32 @@
+package leetcode.easy_level;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/*
+ * Author Name: Raj Kumar
+ * IDE: IntelliJ IDEA Ultimate Edition
+ * JDK: 8 version
+ * Date: 02-01-2026
+ */
+public class FirstUniqueCharacter {
+    public static int firstUniqChar(String s) {
+        Map<Character, Integer> freq = new HashMap<>();
+
+        for (char c : s.toCharArray()) {
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
+        }
+
+        for (int i = 0; i < s.length(); i++) {
+            if (freq.get(s.charAt(i)) == 1) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    public static void main(String[] args) {
+        String str = "loveleetcode";
+        System.out.println(firstUniqChar(str));
+    }
+}
