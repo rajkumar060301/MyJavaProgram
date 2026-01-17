@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class Factorial {
     // Find factorial using recursion
     public static int fact(int n) {
-        int fact = 1;
         if (n <= 1) {
             return 1;
         } else {

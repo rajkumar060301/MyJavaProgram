@@ -1,4 +1,4 @@
-package converting;
+package convert;
 
 public class StringToInteger {
 

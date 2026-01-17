@@ -8,6 +8,8 @@ package string;/*
 public class StringToInteger {
     public static int stringToInteger(String s) {
         int num = Integer.valueOf(s);
+        int num2 = Integer.parseInt(s);
+
         return num;
 
     }
