@@ -4,43 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="Add leet code questions solutions">
-      <change afterPath="$PROJECT_DIR$/src/Map/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashdin_interview/StringCongicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/SumTwoBinaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/GroupAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/MinimizeLengthOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/SetMatrixZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/SortColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/StringToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/IntegerToString.java" afterDir="false" />
+    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="all chnages">
+      <change afterPath="$PROJECT_DIR$/src/basic/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/RotateImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PaloAlto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditionalProgram/Discount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditionalProgram/Leap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditionalProgram/MultiplyUnTill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/converting/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/convert/StringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dbcAssignment/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/medium_level/ReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Chaumin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Meggi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Petties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dbcAssignment/multipleClasses/Pizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/easy_level/SearchAndInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy_level/SearchAndInsert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searching/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Bottom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weaklyTest/WeakFirst/Calculator5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/medium_level/SetMatrixZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/medium_level/SetMatrixZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +20,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="132" />
+    <option name="cachedIndexableFilesCount" value="135" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,90 +63,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Anagram.executor": "Run",
-    "Application.BestTimeBuySellStock.executor": "Debug",
-    "Application.BinarySearch.executor": "Run",
-    "Application.ContainDuplicate.executor": "Run",
-    "Application.CountMatch.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.FindNumber.executor": "Run",
-    "Application.FindWordsContaining.executor": "Run",
-    "Application.FirstUniqueCharacter.executor": "Run",
-    "Application.GroupAnagram.executor": "Run",
-    "Application.HallowStar.executor": "Run",
-    "Application.HashMap.executor": "Run",
-    "Application.IntegerToString.executor": "Run",
-    "Application.IsomorphicStrings.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MajorityElement.executor": "Run",
-    "Application.MaximumCongicate.executor": "Run",
-    "Application.MaximumRichest.executor": "Run",
-    "Application.MinimizeLengthOfArray.executor": "Run",
-    "Application.MissingNumber.executor": "Run",
-    "Application.MoveZero.executor": "Run",
-    "Application.PalindromePartisons.executor": "Run",
-    "Application.PaloAlto.executor": "Run",
-    "Application.Pattern2.executor": "Run",
-    "Application.RemoveDuplicateElement.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ReverseInteger.executor": "Run",
-    "Application.ReverseTringel.executor": "Run",
-    "Application.SearchAndInsert.executor": "Run",
-    "Application.SearchElement.executor": "Run",
-    "Application.SetMatrixZero.executor": "Debug",
-    "Application.SingleNumber.executor": "Run",
-    "Application.SortColor.executor": "Run",
-    "Application.StringCongicate.executor": "Run",
-    "Application.StringToInteger.executor": "Run",
-    "Application.SubArraySumEqual.executor": "Debug",
-    "Application.SumTwoBinaryString.executor": "Run",
-    "Application.Test (1).executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.ThirdMaximumNumber.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.TwoSumProblems.executor": "Run",
-    "Application.TwoSumsQuestions.executor": "Run",
-    "Application.finalAfterOperations.executor": "Run",
-    "Application.oops.TypesOfInterface.Main.executor": "Debug",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/acer/IdeaProjects/2CBinarySearchTree",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15234375",
-    "project.structure.side.proportion": "0.40114942",
-    "settings.editor.selected.configurable": "ml.llm.LLMAIWorkflowsConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BestTimeBuySellStock.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountMatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindWordsContaining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstUniqueCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HallowStar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsomorphicStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumCongicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumRichest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimizeLengthOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromePartisons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaloAlto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseTringel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchAndInsert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetMatrixZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortColor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCongicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArraySumEqual.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SumTwoBinaryString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThirdMaximumNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumProblems.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumsQuestions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.finalAfterOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oops.TypesOfInterface.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/IdeaProjects/2CBinarySearchTree&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15234375&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMAIWorkflowsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "ddbefd81-5bdf-416d-af5b-0bddbcb8aee8",
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;ddbefd81-5bdf-416d-af5b-0bddbcb8aee8&quot;,
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="6" />
+    <option name="suspendCountdown" value="3" />
   </component>
-  <component name="RunManager" selected="Application.SortColor">
+  <component name="RunManager" selected="Application.RotateImage">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ArraySum" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.ReverseInteger" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.medium_level.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.RotateImage" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -216,32 +212,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCongicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashdin_interview.StringCongicate" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashdin_interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.StringToInteger" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.medium_level.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -255,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortColor" />
+        <item itemvalue="Application.RotateImage" />
         <item itemvalue="Application.SetMatrixZero" />
+        <item itemvalue="Application.ArraySum" />
+        <item itemvalue="Application.SortColor" />
         <item itemvalue="Application.ReverseInteger" />
-        <item itemvalue="Application.StringToInteger" />
-        <item itemvalue="Application.StringCongicate" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +378,9 @@
       <workItem from="1768328326560" duration="885000" />
       <workItem from="1768498297993" duration="2235000" />
       <workItem from="1768584470461" duration="3018000" />
-      <workItem from="1768672202819" duration="819000" />
+      <workItem from="1768672202819" duration="2354000" />
+      <workItem from="1768755114147" duration="3524000" />
+      <workItem from="1768758727392" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World!">
       <created>1642341812297</created>
@@ -559,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767545116628</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="all chnages">
+      <option name="closed" value="true" />
+      <created>1768673253383</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1768673253383</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,31 +574,11 @@
     <MESSAGE value="all commmit" />
     <MESSAGE value="small changes in this code" />
     <MESSAGE value="Add leet code questions solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add leet code questions solutions" />
+    <MESSAGE value="all chnages" />
+    <option name="LAST_COMMIT_MESSAGE" value="all chnages" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/medium_level/SetMatrixZero.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/medium_level/SetMatrixZero.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/medium_level/SetMatrixZero.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,5 +1,7 @@
 package leetcode.medium_level;
 
+import java.util.Arrays;
+
 /*
  * Author Name: Raj Kumar
  * IDE: IntelliJ IDEA Ultimate Edition
@@ -34,7 +36,17 @@ public class SetMatrixZero {
     }
 
     public static void main(String[] args) {
-        int[][] arr = {{1, 1, 1}, {1, 0, 1}, {1, 1, 1}};
+        int[][] arr = {
+                {1, 1, 1},
+                {1, 0, 1},
+                {1, 1, 1}
+        };
         setZeroes(arr);
+        int count = 0;
+        for (int[] arrray : arr) {
+            System.out.println(Arrays.toString(arr[count]));
+            count++;
+
+        }
     }
 }
