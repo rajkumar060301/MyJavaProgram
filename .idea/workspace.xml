@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="added problem solved array sum, rotate matrix, set matrix zero">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/FindMissingRepeatedValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/MergeTwoSortedArray.java" afterDir="false" />
+    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="merge two soreted array in java">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/MajorityElementII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/ConsecutiveCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/LongestSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/PrintDuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/SearchTwoDMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +23,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="136" />
+    <option name="cachedIndexableFilesCount" value="142" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,6 +76,7 @@
     "Application.ArraySum.executor": "Run",
     "Application.BestTimeBuySellStock.executor": "Debug",
     "Application.BinarySearch.executor": "Run",
+    "Application.ConsecutiveCount.executor": "Debug",
     "Application.ContainDuplicate.executor": "Run",
     "Application.CountMatch.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -84,8 +89,10 @@
     "Application.HashMap.executor": "Run",
     "Application.IntegerToString.executor": "Run",
     "Application.IsomorphicStrings.executor": "Run",
+    "Application.LongestSubsequence.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.MajorityElement.executor": "Run",
+    "Application.MajorityElementII.executor": "Run",
     "Application.MaximumCongicate.executor": "Run",
     "Application.MaximumRichest.executor": "Run",
     "Application.MergeTwoSortedArray.executor": "Run",
@@ -95,6 +102,8 @@
     "Application.PalindromePartisons.executor": "Run",
     "Application.PaloAlto.executor": "Run",
     "Application.Pattern2.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.PrintDuplicateElement.executor": "Run",
     "Application.RemoveDuplicateElement.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
@@ -102,6 +111,7 @@
     "Application.RotateImage.executor": "Run",
     "Application.SearchAndInsert.executor": "Run",
     "Application.SearchElement.executor": "Run",
+    "Application.SearchTwoDMatrix.executor": "Run",
     "Application.SetMatrixZero.executor": "Run",
     "Application.SingleNumber.executor": "Run",
     "Application.SortColor.executor": "Run",
@@ -151,48 +161,9 @@
   <component name="RecapUselessUpdatesCounter">
     <option name="suspendCountdown" value="0" />
   </component>
-  <component name="RunManager" selected="Application.MergeTwoSortedArray">
-    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ArraySum" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMissingRepeatedValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy_level.FindMissingRepeatedValue" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.easy_level.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy_level.MergeTwoSortedArray" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.easy_level.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.RotateImage" />
+  <component name="RunManager" selected="Application.LongestSubsequence">
+    <configuration name="ConsecutiveCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.ConsecutiveCount" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -204,8 +175,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetMatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.SetMatrixZero" />
+    <configuration name="LongestSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.LongestSubsequence" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.medium_level.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MajorityElementII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy_level.MajorityElementII" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy_level.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.Power" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.medium_level.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTwoDMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.SearchTwoDMatrix" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -230,19 +240,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeTwoSortedArray" />
-        <item itemvalue="Application.FindMissingRepeatedValue" />
-        <item itemvalue="Application.RotateImage" />
-        <item itemvalue="Application.SetMatrixZero" />
-        <item itemvalue="Application.ArraySum" />
+        <item itemvalue="Application.LongestSubsequence" />
+        <item itemvalue="Application.ConsecutiveCount" />
+        <item itemvalue="Application.MajorityElementII" />
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.SearchTwoDMatrix" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -389,7 +399,14 @@
       <workItem from="1768759173381" duration="707000" />
       <workItem from="1768817147208" duration="780000" />
       <workItem from="1768843829513" duration="2905000" />
-      <workItem from="1768928836986" duration="3709000" />
+      <workItem from="1768928836986" duration="3779000" />
+      <workItem from="1769018547096" duration="1711000" />
+      <workItem from="1769100557030" duration="3404000" />
+      <workItem from="1769147134343" duration="609000" />
+      <workItem from="1769190587933" duration="2095000" />
+      <workItem from="1769278775895" duration="21000" />
+      <workItem from="1769359513513" duration="3201000" />
+      <workItem from="1769444739207" duration="2650000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World!">
       <created>1642341812297</created>
@@ -556,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768759241427</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="merge two soreted array in java">
+      <option name="closed" value="true" />
+      <created>1768933762822</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1768933762824</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -593,10 +618,27 @@
     <MESSAGE value="Add leet code questions solutions" />
     <MESSAGE value="all chnages" />
     <MESSAGE value="added problem solved array sum, rotate matrix, set matrix zero" />
-    <option name="LAST_COMMIT_MESSAGE" value="added problem solved array sum, rotate matrix, set matrix zero" />
+    <MESSAGE value="merge two soreted array in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge two soreted array in java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium_level/ConsecutiveCount.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium_level/ConsecutiveCount.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
