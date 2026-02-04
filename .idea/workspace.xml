@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="merge two soreted array in java">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy_level/MajorityElementII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/ConsecutiveCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/LongestSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/PrintDuplicateElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium_level/SearchTwoDMatrix.java" afterDir="false" />
+    <list default="true" id="22d639b1-bd31-44fe-87f9-95ac2671d701" name="Changes" comment="update single element sorted array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +17,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="142" />
+    <option name="cachedIndexableFilesCount" value="149" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,21 +72,26 @@
     "Application.BinarySearch.executor": "Run",
     "Application.ConsecutiveCount.executor": "Debug",
     "Application.ContainDuplicate.executor": "Run",
+    "Application.CountAndSay.executor": "Debug",
     "Application.CountMatch.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FindMissingRepeatedValue.executor": "Run",
     "Application.FindNumber.executor": "Run",
     "Application.FindWordsContaining.executor": "Run",
+    "Application.FirstArcangeloReturn.executor": "Run",
     "Application.FirstUniqueCharacter.executor": "Run",
     "Application.GroupAnagram.executor": "Run",
     "Application.HallowStar.executor": "Run",
     "Application.HashMap.executor": "Run",
     "Application.IntegerToString.executor": "Run",
     "Application.IsomorphicStrings.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Run",
+    "Application.LongestPalindrome.executor": "Run",
     "Application.LongestSubsequence.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.MajorityElement.executor": "Run",
     "Application.MajorityElementII.executor": "Run",
+    "Application.MatchRepeatedStringCount.executor": "Run",
     "Application.MaximumCongicate.executor": "Run",
     "Application.MaximumRichest.executor": "Run",
     "Application.MergeTwoSortedArray.executor": "Run",
@@ -108,11 +107,13 @@
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
     "Application.ReverseTringel.executor": "Run",
+    "Application.ReverseWordSerntense.executor": "Run",
     "Application.RotateImage.executor": "Run",
     "Application.SearchAndInsert.executor": "Run",
     "Application.SearchElement.executor": "Run",
     "Application.SearchTwoDMatrix.executor": "Run",
     "Application.SetMatrixZero.executor": "Run",
+    "Application.SingleElementInSortedArray.executor": "Run",
     "Application.SingleNumber.executor": "Run",
     "Application.SortColor.executor": "Run",
     "Application.StringCongicate.executor": "Run",
@@ -161,9 +162,9 @@
   <component name="RecapUselessUpdatesCounter">
     <option name="suspendCountdown" value="0" />
   </component>
-  <component name="RunManager" selected="Application.LongestSubsequence">
-    <configuration name="ConsecutiveCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.ConsecutiveCount" />
+  <component name="RunManager" selected="Application.SingleElementInSortedArray">
+    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.CountAndSay" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -175,21 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.LongestSubsequence" />
-      <module name="MyJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.medium_level.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MajorityElementII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy_level.MajorityElementII" />
+    <configuration name="FirstArcangeloReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy_level.FirstArcangeloReturn" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -201,8 +189,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.Power" />
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy_level.LongestCommonPrefix" />
+      <module name="MyJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy_level.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchRepeatedStringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.MatchRepeatedStringCount" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +215,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTwoDMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.SearchTwoDMatrix" />
+    <configuration name="SingleElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium_level.SingleElementInSortedArray" />
       <module name="MyJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -240,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestSubsequence" />
-        <item itemvalue="Application.ConsecutiveCount" />
-        <item itemvalue="Application.MajorityElementII" />
-        <item itemvalue="Application.Power" />
-        <item itemvalue="Application.SearchTwoDMatrix" />
+        <item itemvalue="Application.SingleElementInSortedArray" />
+        <item itemvalue="Application.CountAndSay" />
+        <item itemvalue="Application.FirstArcangeloReturn" />
+        <item itemvalue="Application.MatchRepeatedStringCount" />
+        <item itemvalue="Application.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +407,15 @@
       <workItem from="1769190587933" duration="2095000" />
       <workItem from="1769278775895" duration="21000" />
       <workItem from="1769359513513" duration="3201000" />
-      <workItem from="1769444739207" duration="2650000" />
+      <workItem from="1769444739207" duration="2671000" />
+      <workItem from="1769536355715" duration="1671000" />
+      <workItem from="1769542428360" duration="5000" />
+      <workItem from="1769621674220" duration="1834000" />
+      <workItem from="1769796164578" duration="1585000" />
+      <workItem from="1769882180083" duration="1949000" />
+      <workItem from="1769969368528" duration="1253000" />
+      <workItem from="1770052323302" duration="1293000" />
+      <workItem from="1770141146916" duration="1286000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World!">
       <created>1642341812297</created>
@@ -581,7 +590,39 @@
       <option name="project" value="LOCAL" />
       <updated>1768933762824</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added problems">
+      <option name="closed" value="true" />
+      <created>1769449652361</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1769449652361</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added two problems longest palindrome and reverse word sentense">
+      <option name="closed" value="true" />
+      <created>1769623474633</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1769623474635</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added more question count and say">
+      <option name="closed" value="true" />
+      <created>1770053690440</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1770053690440</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update single element sorted array">
+      <option name="closed" value="true" />
+      <created>1770142433976</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1770142433976</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,7 +660,11 @@
     <MESSAGE value="all chnages" />
     <MESSAGE value="added problem solved array sum, rotate matrix, set matrix zero" />
     <MESSAGE value="merge two soreted array in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge two soreted array in java" />
+    <MESSAGE value="added problems" />
+    <MESSAGE value="added two problems longest palindrome and reverse word sentense" />
+    <MESSAGE value="added more question count and say" />
+    <MESSAGE value="update single element sorted array" />
+    <option name="LAST_COMMIT_MESSAGE" value="update single element sorted array" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -629,12 +674,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/medium_level/ConsecutiveCount.java</url>
-          <line>15</line>
+          <line>16</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/medium_level/ConsecutiveCount.java</url>
-          <line>14</line>
+          <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
